@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "368421130692",
+    "firebase_url": "https://support-system-eca21-default-rtdb.firebaseio.com",
+    "project_id": "support-system-eca21",
+    "storage_bucket": "support-system-eca21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368421130692:android:d36f1df86c0e6f0666d491",
+        "android_client_info": {
+          "package_name": "com.example.Delivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368421130692-s0ia0qsg5n4ohrlbvml7hpfg3f8dgq01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnBzlAZ_8nbgRinujZkmsdE5-lIh5Eeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368421130692-s0ia0qsg5n4ohrlbvml7hpfg3f8dgq01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368421130692:android:d2e22cec3e3a7c4366d491",
+        "android_client_info": {
+          "package_name": "com.example.drivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368421130692-s0ia0qsg5n4ohrlbvml7hpfg3f8dgq01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnBzlAZ_8nbgRinujZkmsdE5-lIh5Eeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368421130692-s0ia0qsg5n4ohrlbvml7hpfg3f8dgq01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
